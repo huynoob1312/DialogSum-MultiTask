@@ -146,7 +146,7 @@ Pretrained model weights and LoRA adapters are hosted on Hugging Face:
 - **Seq2Seq-GRU:** [`huynoob1312/dialogsum-multi-task-gru`](https://huggingface.co/huynoob1312/dialogsum-multi-task-gru)
 - **Seq2Seq-Transformer:** [`huynoob1312/dialogsum-multi-task-transformer`](https://huggingface.co/huynoob1312/dialogsum-multi-task-transformer)
 - **BART-Large-CNN:** [`huynoob1312/dialogsum-multi-task-BART`](https://huggingface.co/huynoob1312/dialogsum-multi-task-BART)
-- **LLaMA-3.2-3B:** [`huynoob1312/dialogsum-llama-3.2-3b`](https://huggingface.co/huynoob1312/dialogsum-llama-3.2-3b)
+- **LLaMA-3.2-3B:** [`huynoob1312/dialogsum-llama-3.2-3b`](https://huggingface.co/huynoob1312/dialogsum-multi-task-Llama3.2_3B)
 
 ---
 
