@@ -114,7 +114,7 @@ Open your browser at `http://localhost:8501` to test with preset conversation sa
 
 ---
 
-## 📡 API Usage Example
+## API Usage Example
 
 Send a `POST` request to test any model:
 
